@@ -1,0 +1,14 @@
+{
+  "name": "react-cource",
+  "version": "1.0.0",
+  "description": "react from screch",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "jhabar",
+  "license": "ISC"
+}
